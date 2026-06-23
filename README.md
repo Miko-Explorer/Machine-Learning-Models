@@ -5,11 +5,11 @@
 **Institution:** University of Santo Tomas - College of Science
 
 ---
-## 📌 Overview
+## Overview
 This repository contains a comprehensive collection of machine learning implementations ranging from fundamental regression techniques to advanced ensemble methods and unsupervised learning. Each notebook demonstrates practical application of theoretical concepts using real-world datasets, with detailed explanations, visualizations, and performance evaluations.
 
 ---
-## 📁 Repository Structure
+## Repository Structure
 - Ordinary Least Squares Regression.md
 - Linear Probability Model.md
 - Logistic Regression and General Linear Models (GLM).md
@@ -22,7 +22,7 @@ This repository contains a comprehensive collection of machine learning implemen
 - Market Basket Analysis.md
 
 ---
-## 📚 Models & Techniques Covered
+## Models & Techniques Covered
 ### Regression Models
 | Model | Dataset | Key Techniques |
 |-------|---------|----------------|
@@ -61,7 +61,7 @@ This repository contains a comprehensive collection of machine learning implemen
 | **Market Basket Analysis** | 2022 Philippine Election Data | Apriori algorithm, support/confidence/lift metrics, rule mining |
 
 ---
-## 📊 Dataset Descriptions
+## Dataset Descriptions
 | Dataset | Source | Size | Target Variable |
 |---------|--------|------|-----------------|
 | **Auto MPG** | UCI ML Repository | 398 rows, 9 features | Fuel efficiency (MPG) |
